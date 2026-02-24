@@ -1,3 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.middle {
+    margin: 0 auto;
+}
